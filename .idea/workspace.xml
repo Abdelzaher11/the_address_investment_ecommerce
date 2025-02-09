@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a3acb6c-fb47-43eb-828f-8d97d8d6bf86" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0fc4ce0c4c3009328ae10483eb5233fe/.filecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0fc4ce0c4c3009328ae10483eb5233fe/app.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0fc4ce0c4c3009328ae10483eb5233fe/debug_android_application.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0fc4ce0c4c3009328ae10483eb5233fe/flutter_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0fc4ce0c4c3009328ae10483eb5233fe/kernel_snapshot.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0fc4ce0c4c3009328ae10483eb5233fe/kernel_snapshot_native_assets.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0fc4ce0c4c3009328ae10483eb5233fe/kernel_snapshot_program.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0fc4ce0c4c3009328ae10483eb5233fe/native_assets.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0fc4ce0c4c3009328ae10483eb5233fe/native_assets.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/0fc4ce0c4c3009328ae10483eb5233fe/program.dill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/flutter_build/dart_plugin_registrant.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flutter-plugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/the_address_investments_ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/8.3/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/8.3/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/8.3/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/8.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/8.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/8.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/8.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/8.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/kotlin/errors/errors-1739139101484.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/kotlin/com/example/the_address_investments_ecommerce/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/the_address_investments_ecommerce_android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/inter/Inter_18pt-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/inter/Inter_18pt-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logos/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/61cc10412b93d14a62052bbcef630701/_composite.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/61cc10412b93d14a62052bbcef630701/gen_localizations.stamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/annotation_processor_list/debug/annotationProcessors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/AssetManifest.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/assets/fonts/inter/Inter_18pt-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/assets/icons/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/assets/images/order_confirmed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/assets/logos/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/isolate_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/assets/debug/flutter_assets/vm_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/AssetManifest.json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/FontManifest.json.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/NOTICES.Z.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/fonts/inter/Inter_18pt-Light.ttf.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/icons/close.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/icons/edit.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/assets/images/order_confirmed.png.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/isolate_snapshot_data.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/packages/fluttertoast/assets/toastify.css.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/packages/fluttertoast/assets/toastify.js.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/compressed_assets/debug/out/assets/flutter_assets/vm_snapshot_data.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/otherProjects/jar_38c6113e35db8434a92c166759c8ce9eac3ac35c080406c6ab79df15defaae92_bucket_0/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/otherProjects/jar_38c6113e35db8434a92c166759c8ce9eac3ac35c080406c6ab79df15defaae92_bucket_1/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/otherProjects/jar_5e3dea5c9f3318a53e296687984f7b81ad5f53106809f35494be927582bbee30_bucket_0/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/otherProjects/jar_fb6166d069ff459f1521b1f4753953a0c3e52430009755135cc5b48b50cbe47c_bucket_0/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/desugar_graph/debug/out/otherProjects/jar_fb6166d069ff459f1521b1f4753953a0c3e52430009755135cc5b48b50cbe47c_bucket_1/graph.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/dex_number_of_buckets_file/debug/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/.last_build_id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/AssetManifest.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/fonts/inter/Inter_18pt-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/assets/icons/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/flutter/debug/flutter_assets/shaders/ink_sparkle.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/2syWTVk1mzOZMnsWWd47uJU1m_Y=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/40u_g66bTOGOvwk+aq0bv0sWKjU=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/5CeTCN1Q46hwwP7l_97QIxEWSJA=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/8MN2X0oIY5aSl_trgjdJ_bHn+sw=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/SPpG996J9Fr9P3nEReyVDgVKoes=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/TOK_6QouqxIe9HmdGHKjT3oNnk8=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/XcmcvkfMksW9vqniX9gxcuDK+cc=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/Z2O_mT5k9cnLXrEieOGgIWAsKdo=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/fSxmPQe27gtn9N3zzYqgI7ScCdI=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/nGCk1vtsPr5JxmfJd9yj+GksJrY=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/qsIyzpLSXA6PqBqzrEbMNAKJAs4=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/rxScjHYAUFWa_eqiTvwQ_BVu7VQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/uevqbxQTbkE4WJUQ2yQwYtJLZCk=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/wSjpiM7YTvtJXTHfxhWZyug65yQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/xYOiyhXbHWsw3Ca8PeZkLKsbdNQ=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/ykwZ07KixQGtxciBqXGQNhkfOzo=" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-as/values-as.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-az/values-az.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-be/values-be.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-da/values-da.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-de/values-de.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-el/values-el.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-es/values-es.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-et/values-et.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-gl/values-gl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-gu/values-gu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ka/values-ka.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ky/values-ky.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-mk/values-mk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ml/values-ml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-my/values-my.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-or/values-or.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sq/values-sq.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-ur/values-ur.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-uz/values-uz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/mergeDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_java_res/debug/base.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_native_libs/debug/out/lib/x86/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/drawable-v21_launch_background.xml.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-af_values-af.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-as_values-as.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-bg_values-bg.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-bs_values-bs.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-el_values-el.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-en-rAU_values-en-rAU.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-en-rCA_values-en-rCA.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-en-rIN_values-en-rIN.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-en-rXC_values-en-rXC.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-et_values-et.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-eu_values-eu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-fr-rCA_values-fr-rCA.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-fr_values-fr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-hu_values-hu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-hy_values-hy.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-it_values-it.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-kk_values-kk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-km_values-km.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-ky_values-ky.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-lv_values-lv.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-ml_values-ml.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-mn_values-mn.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-mr_values-mr.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-nb_values-nb.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-ne_values-ne.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-night-v8_values-night-v8.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-or_values-or.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-pa_values-pa.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-pt-rBR_values-pt-rBR.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-pt-rPT_values-pt-rPT.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-ro_values-ro.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-sk_values-sk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-tl_values-tl.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-uk_values-uk.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-uz_values-uz.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values-zu_values-zu.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res/debug/values_values.arsc.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-am.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-az.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-b+sr+Latn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-da.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-de.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rAU.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rCA.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rGB.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rIN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-es-rUS.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-gu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-it.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-kk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-km.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-kn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt-rPT.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ro.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-si.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sw.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-uk.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ur.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-uz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rCN.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rTW.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/navigation_json/debug/navigation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/packaged_manifests/debug/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/packaged_res/debug/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/packaged_res/debug/values-night-v8/values-night-v8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/packaged_res/debug/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/processed_res/debug/out/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/project_dex_archive/debug/out/db86689ac1da3eb4155dd3b4d661e96098b2c280a6a645df647884504a9be2db_0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/project_dex_archive/debug/out/io/flutter/plugins/GeneratedPluginRegistrant.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/signing_config_versions/debug/signing-config-versions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/source_set_path_map/debug/file-map.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/stripped_native_libs/debug/out/lib/x86/libflutter.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/sub_project_dex_archive/debug/out/23da631eb572f2b716aa01a2a0dd6a7dec6f09eafdee140f8b0878b2c3c53369_0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/sub_project_dex_archive/debug/out/2c7ad54b57e3bdde949f02d7d91d58afe8a0f017c1e958377ff708d9711f9bab_0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/intermediates/sub_project_dex_archive/debug/out/d01c2d93c4bc55184afec8ed8120d589fa225b74f4dc54f61836426eee531038_1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/classpath-snapshot/shrunk-classpath-snapshot.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/kotlin/compileDebugKotlin/local-state/build-history.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/app/tmp/packJniLibsflutterBuildDebug/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/.transforms/461d7b5aed14432e5122107a623f5746/transformed/classes/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/intermediates/aar_main_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/intermediates/aar_metadata/debug/aar-metadata.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/intermediates/compile_symbol_list/debug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/intermediates/incremental/debug/packageDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/intermediates/javac/debug/classes/dev/fluttercommunity/plus/connectivity/ConnectivityBroadcastReceiver$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/intermediates/merged_java_res/debug/feature-connectivity_plus.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/intermediates/navigation_json/debug/navigation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/intermediates/runtime_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/outputs/aar/connectivity_plus-debug.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/connectivity_plus/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/.transforms/6917bd8f599f6282fe1facf5e0440a2d/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/.transforms/6917bd8f599f6282fe1facf5e0440a2d/transformed/classes/classes.dex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/20250210_7852652259428557877.compiler.options" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/intermediates/annotation_processor_list/debug/annotationProcessors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/intermediates/java_res/debug/out/META-INF/fluttertoast_debug.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/intermediates/merged_java_res/debug/feature-fluttertoast.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/intermediates/navigation_json/debug/navigation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/intermediates/packaged_res/debug/drawable/corner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/outputs/aar/fluttertoast-debug.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/tmp/kotlin-classes/debug/META-INF/fluttertoast_debug.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/tmp/kotlin-classes/debug/io/github/ponnamkarthik/toast/fluttertoast/MethodCallHandlerImpl$onMethodCall$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fluttertoast/tmp/kotlin-classes/debug/io/github/ponnamkarthik/toast/fluttertoast/MethodCallHandlerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/annotation_processor_list/debug/annotationProcessors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/annotations_typedef_file/debug/typedefs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/compile_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/compile_r_class_jar/debug/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/compile_symbol_list/debug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/incremental/debug/packageDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/javac/debug/classes/io/flutter/plugins/pathprovider/Messages$FlutterError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/javac/debug/classes/io/flutter/plugins/pathprovider/Messages$StorageDirectory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/javac/debug/classes/io/flutter/plugins/pathprovider/PathProviderPlugin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/javac/debug/classes/io/flutter/plugins/pathprovider/PathProviderPlugin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/merged_java_res/debug/feature-path_provider_android.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/navigation_json/debug/navigation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/intermediates/runtime_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/outputs/aar/path_provider_android-debug.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/path_provider_android/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/.transforms/ed211e95ad122db236f0b3f9fe69473c/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/aar_main_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/aar_metadata/debug/aar-metadata.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/annotation_processor_list/debug/annotationProcessors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/compile_r_class_jar/debug/R.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/incremental/debug/packageDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/Constant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/DatabaseDelegate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/DatabaseTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/DatabaseWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/DatabaseWorkerPool$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/DatabaseWorkerPoolImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/LogLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/SqflitePlugin$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/SqflitePlugin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/dev/Debug.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/operation/BaseOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/operation/BaseReadOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/operation/BatchOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/operation/MethodCallOperation$Result.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/operation/OperationResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/operation/OperationRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/javac/debug/classes/com/tekartik/sqflite/operation/QueuedOperation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/runtime_library_classes_jar/debug/classes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/sqflite_android/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Local Podspecs/connectivity_plus.podspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Local Podspecs/path_provider_foundation.podspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/mac.xcuserdatad/xcschemes/Pods-Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/xcuserdata/mac.xcuserdatad/xcschemes/path_provider_foundation-path_provider_foundation_privacy.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Flutter/Flutter.debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Debug-input-files.xcfilelist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Debug-output-files.xcfilelist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks-Profile-input-files.xcfilelist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-RunnerTests/Pods-RunnerTests-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-RunnerTests/Pods-RunnerTests-umbrella.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/Pods-RunnerTests/Pods-RunnerTests.profile.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/connectivity_plus/ResourceBundle-connectivity_plus_privacy-connectivity_plus-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/connectivity_plus/connectivity_plus-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/connectivity_plus/connectivity_plus-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/connectivity_plus/connectivity_plus-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/connectivity_plus/connectivity_plus-umbrella.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/connectivity_plus/connectivity_plus.debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/connectivity_plus/connectivity_plus.release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/fluttertoast/fluttertoast-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/fluttertoast/fluttertoast-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/fluttertoast/fluttertoast.debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/path_provider_foundation/path_provider_foundation-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/sqflite_darwin/ResourceBundle-sqflite_darwin_privacy-sqflite_darwin-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/sqflite_darwin/sqflite_darwin-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Pods/Target Support Files/sqflite_darwin/sqflite_darwin.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/RunnerTests/RunnerTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/app.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/config/app_theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/entities/product_entity.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/errors/error_handler.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/errors/failure.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/extensions/emit_extension.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/helpers/hive_cache_helper.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/server/url/url.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/utils/app_colors.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/utils/hive_types.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/utils/pagination.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/widgets/cached_network_image_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/core/widgets/custom_app_bar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/cart/data/data_sources/cart_operation_local_data_source.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/cart/data/data_sources/cart_operation_local_data_source_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/cart/data/data_sources/load_cart_local_data_source.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/cart/data/repositories/cart_repo_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/cart/domain/repositories/cart_repo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/cart/presentation/bloc/cart_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/cart/presentation/bloc/cart_events.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/cart/presentation/screens/cart_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/cart/presentation/widgets/cart_builder.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/home/data/data_sources/home_remote_data_source.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/home/data/models/category_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/home/domain/entities/category_entity.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/home/domain/repositories/home_repo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/home/presentation/bloc/home_bloc.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/home/presentation/bloc/home_events.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/home/presentation/bloc/home_states.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/home/presentation/screens/home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/home/presentation/widgets/products_list_view.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/home/presentation/widgets/section_title_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/home/presentation/widgets/update_product_sheet.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/order_confirmed/presentation/screens/order_confirmed_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/product_details/data/data_sources/local/add_product_to_cart_local_data_source.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/product_details/data/data_sources/remote/product_details_remote_data_source.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/product_details/data/data_sources/remote/product_details_remote_data_source_impl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/product_details/domain/use_cases/product_details_use_case.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/product_details/presentation/bloc/product_details_events.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/product_details/presentation/bloc/product_details_states.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/product_details/presentation/screens/product_details_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/product_details/presentation/widgets/add_to_cart_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/features/product_details/presentation/widgets/product_main_image.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/generated/intl/messages_all.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/generated/intl/messages_en.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/l10n/intl_ar.arb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the_address_investments_ecommerce.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2sp23B2h1XprVv2Bm9PO4hSIk9B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.codeium.enabled": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/AndroidStudio/Projects",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a3acb6c-fb47-43eb-828f-8d97d8d6bf86" name="Changes" comment="" />
+      <created>1739137998833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739137998833</updated>
+    </task>
+    <servers />
+  </component>
+</project>
